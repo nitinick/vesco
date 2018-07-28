@@ -86,6 +86,9 @@ h3{
   font-weight: 700;
   margin: 20px 0 20px 0;
 }
+.content-title-white{
+  color:white;
+}
 
 /**************************************
           BUTTONS
@@ -291,3 +294,18 @@ color: #64707b;
 .icon-grey i:hover{
   color: #34c6d3;
   }
+
+/**************************************
+            TESTIMONIAL
+***************************************/
+.testimonial img{
+  border-radius: 50%;
+}
+#testimonials-cover{
+  background-image: url(../img/bg-testimonials.jpg);
+
+}
+
+#testimonials .content-box{
+  background-color: rgba(0,0,0,0.1);
+}
